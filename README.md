@@ -89,18 +89,13 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
 
-## THANKS TO
-* [`Baileys`]
-* [`stephin-yt`](https://github.com/stephin-yt)
-* [`Farhan-dqz`](https://github.com/Farhan-dqz)
-
-## Developers
+## Developer
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![stephin-yt](https://avatars.githubusercontent.com/u/93263203?s=400&u=abf55f1813fe393a1cb644008b5ce61dba078315&v=4)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [stephin-yt](https://github.com/stephin-yt) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
+  [![`Prince Rudh`](https://avatars.githubusercontent.com/u/93263203?v=4size=200)](https://github.com/stephin-yt)
+
+[`Stephin YT`](https://github.com/stephin-yt)  
+Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
 
