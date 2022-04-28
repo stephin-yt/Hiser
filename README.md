@@ -48,7 +48,7 @@ Project created by <a href="https://github.com/stephin-yt">Stephin</a> to make i
   click to fork the git into your account
  Click [FORK](https://github.com/stephin-yt/Riolu/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/stephin-yt/Riolu copy this url and change stephin-yt with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/stephin-yt/Hiser copy this url and change stephin-yt with your github username and click go<br>
 
 ----
 
@@ -71,23 +71,32 @@ Project created by <a href="https://github.com/stephin-yt">Stephin</a> to make i
   
 ### The Hard Method
 ```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/stephin-yt/Hiser
-$ cd Hiser
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node julie.js
+## ⚠️ FOR TERMUX/UBUNTU/SSH USER
+
+```bash
+apt update && apt upgrade
+apt install git -y
+apt install nodejs -y
+apt install ffmpeg -y
+git clone https://github.com/stephin-yt/Hiser
+cd Hiser
+rm -rf session.alfa.json
+npm install
 ```
-      
-```js
-SETUP
-$ git clone https://github.com/stephin-yt/Hiser
-$ cd Hiser
-$ npm i
-$ node julie.js
+
+## ⚠️ RECOMMENDED INSTALL ON TERMUX
+
+```bash
+pkg install yarn
+yarn
 ```
+
+## ⚠️ Installing
+```bash
+$ node .
+```
+  
+  <br><br><br><br><br>
 
 ----
 
