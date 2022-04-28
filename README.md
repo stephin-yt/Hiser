@@ -35,6 +35,23 @@ Project created by <a href="https://github.com/stephin-yt">Stephin</a> to make i
 <p align="center">
 <a href="https://youtu.be/t1O1VyejM4U" target="blank"><img align="center" src="https://i.imgur.com/pi8k06a.jpg?v=6249b8b6&sqp=COCHz5IG&rs=AOn4CLBOpn4jib3sWj3N_4ihfCHyvBL4OA" height="300" width="420" /></a>
 </p>
+ 
+ ### If there is an error deploying, try the following steps
+  
+1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
+
+2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@Farhandqz/JulieMwol)
+ 
+3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
+
+4. You will have to fork this git to deploy via Heroku.
+  click to fork the git into your account
+ Click [FORK](https://github.com/stephin-yt/Riolu/fork)
+
+5. Now https://heroku.com/deploy?template=https://github.com/stephin-yt/Riolu copy this url and change stephin-yt with your github username and click go<br>
+
+----
+
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/stephin-yt/Hiser&title=Profile%20Views)
 
