@@ -39,16 +39,6 @@ Project created by <a href="https://github.com/stephin-yt">Stephin</a> to make i
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/stephin-yt/Hiser&title=Profile%20Views)
 
 ## Setup
-<div align="center">
-
-IF YOU ARE FACING PROBLEMS WHILE DEPLOYING
-FIRST FORK THIS REPO
-THEN COPY THE LINK BELLOW AND CHANGE THE NAME 
-`stephin-yt` TO YOUR USER NAME AND OPEN THIS LINK IN CHROME
-
-Copy this link https://heroku.com/deploy?template=https://github.com/stephin-yt/Hiser
-</p>
- 
  
  <div align="center">
 
