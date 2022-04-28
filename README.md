@@ -80,7 +80,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 git clone https://github.com/stephin-yt/Hiser
 cd Hiser
-rm -rf session.alfa.json
+rm -rf session.alfa.jso
 npm install
 ```
 
