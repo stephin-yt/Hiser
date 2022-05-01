@@ -69,35 +69,19 @@ Project created by <a href="https://github.com/stephin-yt">Stephin</a> to make i
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
+  
 ### The Hard Method
 ```js
-## ⚠️ FOR TERMUX/UBUNTU/SSH USER
-
-```bash
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-apt install ffmpeg -y
-git clone https://github.com/stephin-yt/Hiser
-cd Hiser
-rm -rf session.package.json
-npm install
+GET QR
+$ apt install git
+$ apt install nodejs --fix-missing
+$ git clone https://github.com/stephin-yt/Hiser
+$ cd Hiser
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node julie.js
 ```
-
-## ⚠️ RECOMMENDED INSTALL ON TERMUX
-
-```bash
-pkg install yarn
-yarn
-```
-
-## ⚠️ Installing
-```bash
-$ node .
-```
-  <br><br><br><br><br>
-----
-
+     
   <p align="center">
   <a href="httsp://github.com/farhan-dqz/JulieMwol">
     
