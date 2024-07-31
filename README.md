@@ -72,7 +72,14 @@ Project created by <a href="https://github.com/stephin-yt">Stephin</a> to make i
 
 </div>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/stephin-yt/Hiser) 
+## Deploy to Koyeb ↓
+
+<a href="https://raganork-web.vercel.app/deploy" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deploy bot" height="112" width="310" /></a>
+  <div>
+<br>
+<div>
+  <br>
+
   
   
 ### The Hard Method
