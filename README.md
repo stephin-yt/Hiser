@@ -65,23 +65,8 @@ Project created by <a href="https://github.com/stephin-yt">Stephin</a> to make i
   
 ### Simple Method
   
-  
-<div align="center">
-   
-<a href="https://raganork.online/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+𝐓𝐇𝐄 𝐁𝐎𝐓 𝐈𝐒 𝐒𝐓𝐎𝐏𝐄𝐃 𝐖𝐎𝐑𝐊𝐈𝐍𝐆  
 
-</div>
-
-## Deploy to Koyeb ↓
-
-<a href="https://raganork-web.vercel.app/deploy" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deploy bot" height="112" width="310" /></a>
-  <div>
-<br>
-<div>
-  <br>
-
-  
-  
 ### The Hard Method
 ```js
 GET QR
