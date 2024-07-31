@@ -65,9 +65,14 @@ Project created by <a href="https://github.com/stephin-yt">Stephin</a> to make i
   
 ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/stephin-yt/Hiser) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+<div align="center">
+   
+<a href="https://raganork.online/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+
+</div>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/stephin-yt/Hiser) 
   
   
 ### The Hard Method
